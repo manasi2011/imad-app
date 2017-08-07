@@ -13,11 +13,11 @@ app.get('/articale-one',function(req, res){
     res.send('Artical one requested and served here');
 });
 
-app.get('/artical-two',function(req, res){
+app.get('/articale-two',function(req, res){
     res.send('Artical two requested and served here');
 });
 
-app.get('/artical-three',function(req, res){
+app.get('/articale-three',function(req, res){
     res.send('Artical three requested and served here');
 });
 
